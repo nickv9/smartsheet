@@ -1,0 +1,47 @@
+---
+title: "smartsheet notes"
+author: "Nicholas Vasile"
+date: "6/1/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+training resources: https://publish.smartsheet.com/e546d0d4c5e7450a82d5479801fb45d6
+
+# SmartStart Onboarding
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/smartstart-onboarding 
+
+
+4 major building blocks:
+
+1. Sheets: The foundation of smartsheet
+    + Can be viewed different ways - grid, Gantt chart, cards
+    + Formulas can be used for aggregation
+    + Can attach files and manage conversations
+    + Can setup automated workflows
+    
+2. Forms: Collection information and take action
+    + standardize data collection
+
+3. Reports: Manage work across multiple sheets
+    + Work across sheets with bi-directional, high level view
+    + Reports are bi-directional
+    + grid, calendar or gannt view
+    + share as PDF or publish
+    + display on dashboard
+    
+4. Dashboards
+    + Surface key metrics without exposing underlying data
+    + Use as a portal for centralzing resources for your team
+    + Live, real-time updates to data as it changes
+    + Charts
+    + Embed web content
+    
+Sample work flow.
+
+![](sample_workflow.png)
+
+stopped at 39:46
