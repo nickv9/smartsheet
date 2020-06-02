@@ -9,9 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-training resources: https://publish.smartsheet.com/e546d0d4c5e7450a82d5479801fb45d6
+training resources: 
 
 # SmartStart Onboarding
+
 SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/smartstart-onboarding 
 
 
@@ -45,3 +46,31 @@ Sample work flow.
 ![](sample_workflow.png)
 
 stopped at 39:46
+
+## Dashboards
+
+Made up of 8 widgets:
+ 
+* Metric
+* Chart
+* Shortcut
+* Report
+* Image
+* Title
+* Rich text
+* Web content
+
+Workspaces are a best practice
+
+# Maximize Your Smartsheet Experience
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/maximize-your-smartsheet-experience 
+
+# Managing projects with Smartsheet
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/managing-projects-smartsheet 
+
+
+# Questions
+
+1. Do workspaces contain copies of work sheets or "links' to the actual content?
