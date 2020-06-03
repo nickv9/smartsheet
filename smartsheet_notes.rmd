@@ -70,7 +70,36 @@ SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/maximi
 
 SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/managing-projects-smartsheet 
 
+Can automatically send email when tasks are overdue.
+
+# Project Management for Non-Project Managers
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/project-management-non-project-managers 
+
+# Building Better Sheets
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/building-better-sheets 
+
+# Introduction to formulas
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/introduction-formulas
+
+# Advanced Formulas
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/advanced-formulas
+
+# Save Time and Do More With Automated Workflows 
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/save-time-and-do-more-automated-workflows
+
 
 # Questions
 
 1. Do workspaces contain copies of work sheets or "links' to the actual content?
+
+
+
+# TODO
+
+* Establish relationships
+* Establish critical path
