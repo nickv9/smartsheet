@@ -15,7 +15,6 @@ training resources:
 
 SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/smartstart-onboarding 
 
-
 4 major building blocks:
 
 1. Sheets: The foundation of smartsheet
@@ -92,6 +91,43 @@ SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/advanc
 
 SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/save-time-and-do-more-automated-workflows
 
+Building blocks:
+
+* Trigger
+* Condition
+* Action
+    + Alerta
+    + Reminders
+    + Approval Requests
+    + Update Requests
+    + Lock and Unlock row
+    
+Can take multiple actions in a single workflow
+
+# Dashboards part 1 - Preparing data
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/dashboards-part-1-preparing-data
+
+Before you build:
+
+* Know your audience
+* Define your purpose
+* Create your data
+    + Sheet summary with formula
+    + Metrics sheet with cross-sheet formulas and cell linking
+    + Reports
+
+## Prepare sheet data
+
+Use **Sheet Summary** to organize and report on critical sheet data
+
+## Work across sheets
+
+Use **reports** to consolodate key information from multiple sheets into a single overview.
+
+Create a **roll-up sheet** to understand program performance.
+
+26:30
 
 # Questions
 
