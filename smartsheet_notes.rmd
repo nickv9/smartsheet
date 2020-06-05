@@ -127,15 +127,37 @@ Use **reports** to consolodate key information from multiple sheets into a singl
 
 Create a **roll-up sheet** to understand program performance.
 
-26:30
+![](img/dashboard_1_summary.png)
+
+# Dashboards part 2 - Building and designing 
+
+SOURCE: https://help.smartsheet.com/learning-track/best-practice-webinars/dashboards-part-2-building-and-designing 
+
+Before you build:
+
+* Know your audience
+* Define  your purpose
+* Create your data
+
+Dashboard widget types
+
+* Metric
+* Chart
+* Shortcut
+* Report
+* Image
+* Title
+* Rich Text
+* Web Content
 
 # Questions
 
-1. Do workspaces contain copies of work sheets or "links' to the actual content?
-
+1. Q: Do workspaces contain copies of work sheets or "links' to the actual content?
+    A: Workspaces aggregate sheets into a single view that makes it easier to assign permisions, share with a group, etc. The sheets themselves live outside workspaces.
 
 
 # TODO
+For my projects
 
-* Establish relationships
+* Establish relationships/dependencies between tasks
 * Establish critical path
